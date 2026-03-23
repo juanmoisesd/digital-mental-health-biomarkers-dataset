@@ -1,0 +1,11 @@
+title: "digital-mental-health-biomarkers-dataset"
+description: "Dataset on digital biomarkers for mental health assessment."
+url: "https://juanmoisesd.github.io"
+baseurl: "/digital-mental-health-biomarkers-dataset"
+author:
+  name: "Juan Moisés de la Serna Tuya"
+  orcid: "0000-0002-8401-8018"
+  institution: "Universidad Internacional de La Rioja (UNIR)"
+plugins:
+  - jekyll-seo-tag
+theme: minima
