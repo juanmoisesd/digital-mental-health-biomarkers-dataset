@@ -1,0 +1,35 @@
+{
+  "title": "Digital Mental Health Biomarkers Dataset",
+  "description": "Open research dataset: Digital Mental Health Biomarkers Dataset. By Juan Moisés de la Serna Tuya (UNIR).",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "digital",
+    "mental health",
+    "public health",
+    "dataset",
+    "open data",
+    "research"
+  ],
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-zero",
+  "upload_type": "dataset",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://github.com/juanmoisesd/digital-mental-health-biomarkers-dataset",
+      "scheme": "url"
+    }
+  ]
+}
